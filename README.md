@@ -79,10 +79,10 @@ Passwords are **never stored as plain text.**
 
 ```
   password-manager
- ┣ 📄 password_manager.cpp   ← main source code
- ┣ 📄 passwords.txt          ← auto created when you add a password
- ┣ 📄 log.txt                ← auto created on first login
- ┣ 📄 lastlogin.txt          ← auto created on first login
+ ┣  password_manager.cpp   ← main source code
+ ┣  passwords.txt          ← auto created when you add a password
+ ┣  log.txt                ← auto created on first login
+ ┣  lastlogin.txt          ← auto created on first login
 
 ```
 
