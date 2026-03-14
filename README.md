@@ -6,7 +6,7 @@ It lets you store, view, update and delete passwords — all saved in **encrypte
 
 ---
 
-## 📋 Features
+##  Features
 
 -  Master login with username & password
 -  Account locks after 3 wrong attempts
